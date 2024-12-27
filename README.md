@@ -6,7 +6,7 @@ This project demonstrates the creation of a Retrieval-Augmented Generation (RAG)
 
 ---
 ## application flow
-![alt text](image.png)
+![alt text](./app flow.png)
 ## Steps to Run
 
 ### 1. **Create a Groq Cloud Account and API Token**
