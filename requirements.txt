@@ -1,0 +1,12 @@
+langchain 
+langgraph 
+langchain_community
+cassio
+tiktoken 
+langchain-groq 
+langchainhub 
+chromadb 
+langchain_huggingface
+python-dotenv
+arxiv
+wikipedia

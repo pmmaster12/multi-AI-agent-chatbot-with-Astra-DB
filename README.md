@@ -5,7 +5,8 @@
 This project demonstrates the creation of a Retrieval-Augmented Generation (RAG) chatbot leveraging multiple AI agents, LangGraph, and AstraDB as the vector database. Follow the steps below to set up and run the application.
 
 ---
-
+## application flow
+![alt text](image.png)
 ## Steps to Run
 
 ### 1. **Create a Groq Cloud Account and API Token**
